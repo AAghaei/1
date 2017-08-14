@@ -16,4 +16,5 @@ each keyword entry has 5 attributes, which are listed below with an explanation
 2. __Alternative words__: having alternative words that may applied by the users in the query process increase the effectiveness and speed of the query. 
 
 ## How to contribute
-every part of this repository is open to edition.
+every part of this repository is open to edition. to edit the repository contents is a simple process described as follows.
+1. if you donot have a GitHub account sign up for one.
