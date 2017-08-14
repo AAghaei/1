@@ -9,6 +9,6 @@ standard and structured keywords allow better and easier search. having keywords
 ## <a name="str"></a>The structure of keywords table
 each keyword entry has 5 attributes, which are listed below with an explanation
 * __Keyword lable__: is the standard phrase to be used to represent a concept.
-* __Keyword ID__: this attribute is a pointer to the keyword, which maybe helpful in programming. moreover, in some cases a keyword may have different meanings in different contexts and the keyword ID might be helpful for disambiguation in such cases.
+* __Keyword ID__: this attribute is a pointer to the keyword, which may be helpful in programming. moreover, in some cases, a keyword may have different meanings in different contexts and the keyword ID might be helpful for disambiguation in such cases.
 ## How to contribute
 every part of this repository is open to edition.
