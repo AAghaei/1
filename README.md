@@ -7,7 +7,8 @@ during the process of data submission, attributing the datasets with standard ke
 standard and structured keywords allow better and easier search. having keywords organised in certain types (see [The structure of keywords table](#str) heading) will facilitate the use of filters in the search process and will help the user to refine the search.
 
 ## <a name="str"></a>The structure of keywords table
-each keyword has 
-
+each keyword entry has 5 attributes, which are listed below with an explanation
+* __Keyword lable__: is the standard phrase to be used to represent a concept.
+* __Keyword ID__: this attribute is a pointer to the keyword, which maybe helpful in programming. moreover, in some cases a keyword may have different meanings in different contexts and the keyword ID might be helpful for disambiguation in such cases.
 ## How to contribute
-every part of this repository is open to edition. 
+every part of this repository is open to edition.
