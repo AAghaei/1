@@ -19,4 +19,5 @@ each keyword entry has 5 attributes, which are listed below with an explanation
 every part of this repository is open to edition. to edit the repository contents is a simple process described as follows.
 1. If you donot have a GitHub account [sign up for one](https://github.com/join).
 2. Read the [quick guide](https://guides.github.com/activities/hello-world/).
-3. Fork this repository by clicking on the fork button on right top of the repository page. 
+3. Fork this repository by clicking on the _"Fork"_ button on right top of the repository page.
+4. 
