@@ -10,5 +10,6 @@ standard and structured keywords allow better and easier search. having keywords
 each keyword entry has 5 attributes, which are listed below with an explanation
 1. __Keyword lable__: is the standard phrase to be used to represent a concept.
 2. __Keyword ID__: this attribute is a pointer to the keyword, which may be helpful in programming. moreover, in some cases, a keyword may have different meanings in different contexts and the keyword ID might be helpful for disambiguation in such cases. Each keyword ID starts with a 2-letter prefix, which identifies the type of keyword (for example, "_MD_" for measurement device), and continues with a combination of uppercase and lowercase letters.
+3. __Keyword Type__: indicate the type of concept that the keyword is referring to, for example the keyword _"Accelerometer"_ is a _"Measurement device"_.
 ## How to contribute
 every part of this repository is open to edition.
