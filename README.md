@@ -20,4 +20,5 @@ every part of this repository is open to edition. to edit the repository content
 1. If you donot have a GitHub account [sign up for one](https://github.com/join).
 2. Read the [quick guide](https://guides.github.com/activities/hello-world/).
 3. Fork this repository by clicking on the _"Fork"_ button on right top of the repository page.
-4. 
+4. Follow the steps in the quick guide page.
+5. This file and the keywords table file are written in _"Markdown"_ syntax which is very easy to learn and use. (see [here](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links) for a quick learning)
